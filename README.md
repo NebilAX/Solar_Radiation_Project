@@ -1,0 +1,5 @@
+Solar Radiation Data Analysis
+
+This analysis project seeks to furnish MoonLight Energy Solutions with a data-driven strategy to pinpoint high-potential locales for solar installation, optimize energy generation tactics, and bolster long-term sustainability objectives. The examination of the solar radiation measurement data from Benin, Sierra Leone, and Togo will prove pivotal in achieving these aims.
+
+By harnessing the comprehensive dataset, which encompasses variables such as Global Horizontal Irradiance (GHI), Direct Normal Irradiance (DNI), Diffuse Horizontal Irradiance (DHI), and diverse environmental factors, the Analytics Engineer will uncover valuable insights to steer MoonLight Energy Solutions' strategic solar investments. The aspiration is to identify regions exhibiting the most favorable solar radiation patterns and environmental conditions, empowering the company to maximize the efficiency and sustainability of its solar operations.
